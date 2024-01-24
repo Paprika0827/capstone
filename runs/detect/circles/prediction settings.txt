@@ -1,0 +1,1 @@
+results = model(image_files,conf=0.8,iou=0.5,save=True)
